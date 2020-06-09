@@ -1,0 +1,35 @@
+.navbar{
+    background-color: #58D68D !important;
+}
+
+.nav-link{
+    color: black !important;
+    font-weight: bold !important;
+}
+
+
+.user,.shop{
+    margin-left: 30px;
+}
+
+.container{
+    margin-top: 50px;
+}
+
+.img{
+    text-align: center;
+}
+
+.adressed,.phone,.email{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.center{
+    font-weight: 600;
+}
+
+.col-12{
+    margin-top: 50px;
+}
+
